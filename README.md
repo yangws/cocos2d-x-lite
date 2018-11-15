@@ -1,3 +1,5 @@
+this is a test pr
+
 Cocos2d-x, compact version
 ==========================
 
